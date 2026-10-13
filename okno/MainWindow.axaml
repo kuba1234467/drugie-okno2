@@ -20,5 +20,10 @@
                    HorizontalAlignment="Center" />
         <TextBox Watermark="Wpisz swoje imię"
                  HorizontalAlignment="Center" />
+        <Slider Minimum="0"
+                Maximum="100"
+                Value="50"
+                Width="200"
+                HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
