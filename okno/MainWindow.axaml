@@ -14,7 +14,7 @@
                    VerticalAlignment="Center" />
         <TextBlock Text="Witaj w mojej aplikacji"
                    HorizontalAlignment="Center" />
-        <Button Content="Kliknij mnie"
+        <Button Content="Start"
                 HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
