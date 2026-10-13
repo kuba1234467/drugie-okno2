@@ -16,6 +16,8 @@
                    HorizontalAlignment="Center" />
         <Button Content="Start"
                 HorizontalAlignment="Center" />
+        <TextBlock Text="Twoje imię:"
+                   HorizontalAlignment="Center" />
         <TextBox Watermark="Wpisz swoje imię"
                  HorizontalAlignment="Center" />
     </StackPanel>
