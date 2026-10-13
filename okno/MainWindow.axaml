@@ -15,6 +15,7 @@
         <TextBlock Text="Witaj w mojej aplikacji"
                    HorizontalAlignment="Center" />
         <Button Content="Start"
+                Width="160"
                 HorizontalAlignment="Center" />
         <TextBlock Text="Twoje imię:"
                    HorizontalAlignment="Center" />
