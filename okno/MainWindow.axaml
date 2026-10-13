@@ -34,5 +34,6 @@
                 Value="50"
                 Width="200"
                 HorizontalAlignment="Center" />
-    </StackPanel>
+        </StackPanel>
+    </Border>
 </Window>
