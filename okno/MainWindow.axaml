@@ -6,7 +6,7 @@
         x:Class="okno.MainWindow"
         Title="Moje Okno"
         Background="LightGray">
-    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="16">
         <TextBlock Text="Warsztat"
                    FontSize="28"
                    Foreground="Blue"
