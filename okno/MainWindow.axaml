@@ -20,6 +20,8 @@
                    HorizontalAlignment="Center" />
         <TextBox Watermark="Wpisz swoje imię"
                  HorizontalAlignment="Center" />
+        <TextBlock Text="Wybierz wartość"
+                   HorizontalAlignment="Center" />
         <Slider Minimum="0"
                 Maximum="100"
                 Value="50"
