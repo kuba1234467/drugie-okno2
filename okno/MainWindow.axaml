@@ -7,6 +7,7 @@
         Title="Moje Okno">
     <TextBlock Text="Warsztat"
                FontSize="28"
+               Foreground="Blue"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
